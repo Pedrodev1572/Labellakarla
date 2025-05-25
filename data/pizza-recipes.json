@@ -1,0 +1,93 @@
+[
+  {
+    "pizzaId": "1",
+    "pizzaName": "Margherita",
+    "baseIngredients": [
+      { "ingredientId": "massa", "quantity": 1 },
+      { "ingredientId": "azeite", "quantity": 0.02 },
+      { "ingredientId": "oregano", "quantity": 0.005 }
+    ],
+    "specificIngredients": [
+      { "ingredientId": "molho-tomate", "quantity": 0.15 },
+      { "ingredientId": "mussarela", "quantity": 0.2 },
+      { "ingredientId": "manjericao", "quantity": 0.01 }
+    ]
+  },
+  {
+    "pizzaId": "2",
+    "pizzaName": "Pepperoni",
+    "baseIngredients": [
+      { "ingredientId": "massa", "quantity": 1 },
+      { "ingredientId": "azeite", "quantity": 0.02 },
+      { "ingredientId": "oregano", "quantity": 0.005 }
+    ],
+    "specificIngredients": [
+      { "ingredientId": "molho-tomate", "quantity": 0.15 },
+      { "ingredientId": "mussarela", "quantity": 0.2 },
+      { "ingredientId": "pepperoni", "quantity": 0.12 }
+    ]
+  },
+  {
+    "pizzaId": "3",
+    "pizzaName": "Quatro Queijos",
+    "baseIngredients": [
+      { "ingredientId": "massa", "quantity": 1 },
+      { "ingredientId": "azeite", "quantity": 0.02 },
+      { "ingredientId": "oregano", "quantity": 0.005 }
+    ],
+    "specificIngredients": [
+      { "ingredientId": "molho-branco", "quantity": 0.15 },
+      { "ingredientId": "mussarela", "quantity": 0.15 },
+      { "ingredientId": "gorgonzola", "quantity": 0.06 },
+      { "ingredientId": "parmesao", "quantity": 0.06 },
+      { "ingredientId": "provolone", "quantity": 0.06 }
+    ]
+  },
+  {
+    "pizzaId": "4",
+    "pizzaName": "Portuguesa",
+    "baseIngredients": [
+      { "ingredientId": "massa", "quantity": 1 },
+      { "ingredientId": "azeite", "quantity": 0.02 },
+      { "ingredientId": "oregano", "quantity": 0.005 }
+    ],
+    "specificIngredients": [
+      { "ingredientId": "molho-tomate", "quantity": 0.15 },
+      { "ingredientId": "mussarela", "quantity": 0.18 },
+      { "ingredientId": "presunto", "quantity": 0.1 },
+      { "ingredientId": "ovos", "quantity": 0.05 },
+      { "ingredientId": "cebola", "quantity": 0.03 },
+      { "ingredientId": "azeitona", "quantity": 0.02 }
+    ]
+  },
+  {
+    "pizzaId": "5",
+    "pizzaName": "Calabresa",
+    "baseIngredients": [
+      { "ingredientId": "massa", "quantity": 1 },
+      { "ingredientId": "azeite", "quantity": 0.02 },
+      { "ingredientId": "oregano", "quantity": 0.005 }
+    ],
+    "specificIngredients": [
+      { "ingredientId": "molho-tomate", "quantity": 0.15 },
+      { "ingredientId": "mussarela", "quantity": 0.18 },
+      { "ingredientId": "calabresa", "quantity": 0.14 },
+      { "ingredientId": "cebola", "quantity": 0.03 }
+    ]
+  },
+  {
+    "pizzaId": "6",
+    "pizzaName": "Frango com Catupiry",
+    "baseIngredients": [
+      { "ingredientId": "massa", "quantity": 1 },
+      { "ingredientId": "azeite", "quantity": 0.02 },
+      { "ingredientId": "oregano", "quantity": 0.005 }
+    ],
+    "specificIngredients": [
+      { "ingredientId": "molho-tomate", "quantity": 0.15 },
+      { "ingredientId": "mussarela", "quantity": 0.15 },
+      { "ingredientId": "frango", "quantity": 0.16 },
+      { "ingredientId": "catupiry", "quantity": 0.1 }
+    ]
+  }
+]

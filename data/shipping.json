@@ -1,0 +1,114 @@
+[
+  {
+    "region": "lago-sul",
+    "name": "Lago Sul",
+    "price": 10.0,
+    "cepRanges": ["71600-000", "71699-999"],
+    "neighborhoods": ["Lago Sul", "SHIS", "QI"]
+  },
+  {
+    "region": "asa-sul",
+    "name": "Asa Sul",
+    "price": 12.0,
+    "cepRanges": ["70100-000", "70199-999"],
+    "neighborhoods": ["Asa Sul", "SQS", "CLS", "EQS"]
+  },
+  {
+    "region": "nucleo-bandeirante",
+    "name": "Núcleo Bandeirante",
+    "price": 12.0,
+    "cepRanges": ["71700-000", "71799-999"],
+    "neighborhoods": ["Núcleo Bandeirante", "Candangolândia", "Riacho Fundo"]
+  },
+  {
+    "region": "asa-norte",
+    "name": "Asa Norte",
+    "price": 15.0,
+    "cepRanges": ["70000-000", "70099-999"],
+    "neighborhoods": ["Asa Norte", "SQN", "CLN", "EQN"]
+  },
+  {
+    "region": "sudoeste",
+    "name": "Sudoeste/Octogonal",
+    "price": 15.0,
+    "cepRanges": ["70600-000", "70699-999"],
+    "neighborhoods": ["Sudoeste", "Octogonal", "Setor Sudoeste"]
+  },
+  {
+    "region": "cruzeiro",
+    "name": "Cruzeiro",
+    "price": 15.0,
+    "cepRanges": ["70640-000", "70659-999"],
+    "neighborhoods": ["Cruzeiro Novo", "Cruzeiro Velho"]
+  },
+  {
+    "region": "plano-piloto",
+    "name": "Plano Piloto",
+    "price": 15.0,
+    "cepRanges": ["70200-000", "70399-999"],
+    "neighborhoods": ["Esplanada", "Setor Militar", "Setor de Embaixadas"]
+  },
+  {
+    "region": "guara",
+    "name": "Guará",
+    "price": 18.0,
+    "cepRanges": ["71000-000", "71099-999"],
+    "neighborhoods": ["Guará I", "Guará II", "QE", "QI"]
+  },
+  {
+    "region": "paranoa",
+    "name": "Paranoá",
+    "price": 18.0,
+    "cepRanges": ["71570-000", "71599-999"],
+    "neighborhoods": ["Paranoá", "Itapoã"]
+  },
+  {
+    "region": "aguas-claras",
+    "name": "Águas Claras",
+    "price": 20.0,
+    "cepRanges": ["71900-000", "71999-999"],
+    "neighborhoods": ["Águas Claras", "Areal", "Arniqueiras"]
+  },
+  {
+    "region": "taguatinga",
+    "name": "Taguatinga",
+    "price": 25.0,
+    "cepRanges": ["72000-000", "72199-999"],
+    "neighborhoods": ["Taguatinga Norte", "Taguatinga Sul", "Taguatinga Centro"]
+  },
+  {
+    "region": "ceilandia",
+    "name": "Ceilândia",
+    "price": 30.0,
+    "cepRanges": ["72200-000", "72399-999"],
+    "neighborhoods": ["Ceilândia Norte", "Ceilândia Sul", "Ceilândia Centro"]
+  },
+  {
+    "region": "sobradinho",
+    "name": "Sobradinho",
+    "price": 30.0,
+    "cepRanges": ["73000-000", "73199-999"],
+    "neighborhoods": ["Sobradinho I", "Sobradinho II", "Fercal"]
+  },
+  {
+    "region": "gama",
+    "name": "Gama",
+    "price": 30.0,
+    "cepRanges": ["72400-000", "72599-999"],
+    "neighborhoods": ["Gama Leste", "Gama Oeste", "Setor Central"]
+  },
+  {
+    "region": "samambaia",
+    "name": "Samambaia",
+    "price": 30.0,
+    "cepRanges": ["72300-000", "72399-999"],
+    "neighborhoods": ["Samambaia Norte", "Samambaia Sul"]
+  },
+  {
+    "region": "outras-df",
+    "name": "Outras regiões do DF",
+    "price": 25.0,
+    "cepRanges": ["70000-000", "72999-999"],
+    "neighborhoods": []
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "massa",
+    "name": "Massa de Pizza",
+    "stock": 100,
+    "unit": "unidades",
+    "minStock": 20,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "molho-tomate",
+    "name": "Molho de Tomate",
+    "stock": 50,
+    "unit": "kg",
+    "minStock": 10,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "molho-branco",
+    "name": "Molho Branco",
+    "stock": 20,
+    "unit": "kg",
+    "minStock": 5,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "mussarela",
+    "name": "Mussarela",
+    "stock": 30,
+    "unit": "kg",
+    "minStock": 5,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "manjericao",
+    "name": "Manjericão",
+    "stock": 2,
+    "unit": "kg",
+    "minStock": 0.5,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "pepperoni",
+    "name": "Pepperoni",
+    "stock": 15,
+    "unit": "kg",
+    "minStock": 3,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "gorgonzola",
+    "name": "Gorgonzola",
+    "stock": 8,
+    "unit": "kg",
+    "minStock": 2,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "parmesao",
+    "name": "Parmesão",
+    "stock": 12,
+    "unit": "kg",
+    "minStock": 3,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "provolone",
+    "name": "Provolone",
+    "stock": 10,
+    "unit": "kg",
+    "minStock": 2,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "calabresa",
+    "name": "Calabresa",
+    "stock": 18,
+    "unit": "kg",
+    "minStock": 4,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "frango",
+    "name": "Frango Desfiado",
+    "stock": 12,
+    "unit": "kg",
+    "minStock": 3,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "catupiry",
+    "name": "Catupiry",
+    "stock": 8,
+    "unit": "kg",
+    "minStock": 2,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "presunto",
+    "name": "Presunto",
+    "stock": 10,
+    "unit": "kg",
+    "minStock": 2,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "ovos",
+    "name": "Ovos",
+    "stock": 5,
+    "unit": "kg",
+    "minStock": 1,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "cebola",
+    "name": "Cebola",
+    "stock": 8,
+    "unit": "kg",
+    "minStock": 2,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "azeitona",
+    "name": "Azeitona",
+    "stock": 3,
+    "unit": "kg",
+    "minStock": 0.5,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "azeite",
+    "name": "Azeite",
+    "stock": 5,
+    "unit": "litros",
+    "minStock": 1,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "oregano",
+    "name": "Orégano",
+    "stock": 1,
+    "unit": "kg",
+    "minStock": 0.2,
+    "lastUpdated": "2024-01-15T08:00:00Z"
+  }
+]

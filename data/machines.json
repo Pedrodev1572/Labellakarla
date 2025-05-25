@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Forno Principal",
+    "type": "forno",
+    "installDate": "2023-01-15",
+    "lastMaintenance": "2024-01-01",
+    "nextMaintenance": "2024-04-01",
+    "status": "maintenance_needed",
+    "hoursUsed": 2400,
+    "maxHours": 8760,
+    "notes": "Manutenção urgente - atrasada há 421 dias"
+  },
+  {
+    "id": "2",
+    "name": "Geladeira Industrial",
+    "type": "refrigerador",
+    "installDate": "2023-03-20",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "status": "maintenance_needed",
+    "hoursUsed": 7200,
+    "maxHours": 8760,
+    "notes": "Manutenção urgente - atrasada há 321 dias"
+  },
+  {
+    "id": "3",
+    "name": "Masseira Industrial",
+    "type": "masseira",
+    "installDate": "2023-02-10",
+    "lastMaintenance": "2023-12-15",
+    "nextMaintenance": "2024-03-15",
+    "status": "maintenance_needed",
+    "hoursUsed": 1800,
+    "maxHours": 4380,
+    "notes": "Ruído anormal detectado"
+  }
+]

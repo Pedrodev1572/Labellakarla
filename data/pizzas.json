@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "name": "Margherita",
+    "description": "Molho de tomate, mussarela, manjericão fresco",
+    "category": "tradicional",
+    "ingredients": ["molho-tomate", "mussarela", "manjericao"],
+    "prices": {
+      "pequena": 25.9,
+      "media": 35.9,
+      "grande": 45.9
+    },
+    "image": "https://i0.wp.com/anamariabraga.globo.com/wp-content/uploads/2020/08/pizza-margherita.jpg?fit=1200%2C675&ssl=1",
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Pepperoni",
+    "description": "Molho de tomate, mussarela, pepperoni",
+    "category": "tradicional",
+    "ingredients": ["molho-tomate", "mussarela", "pepperoni"],
+    "prices": {
+      "pequena": 29.9,
+      "media": 39.9,
+      "grande": 49.9
+    },
+    "image": "https://th.bing.com/th/id/OIP._Tuj6ElUF8jhhcSg41_V_QHaE8?cb=iwp2&rs=1&pid=ImgDetMain",
+    "available": true
+  },
+  {
+    "id": "3",
+    "name": "Quatro Queijos",
+    "description": "Molho branco, mussarela, gorgonzola, parmesão, provolone",
+    "category": "especial",
+    "ingredients": ["molho-branco", "mussarela", "gorgonzola", "parmesao", "provolone"],
+    "prices": {
+      "pequena": 32.9,
+      "media": 42.9,
+      "grande": 52.9
+    },
+    "image": "https://th.bing.com/th/id/OIP.8RJNWF8Yr1BtDPwTMO4MAwHaEK?cb=iwp2&rs=1&pid=ImgDetMain",
+    "available": true
+  },
+  {
+    "id": "4",
+    "name": "Portuguesa",
+    "description": "Molho de tomate, mussarela, presunto, ovos, cebola, azeitona",
+    "category": "tradicional",
+    "ingredients": ["molho-tomate", "mussarela", "presunto", "ovos", "cebola", "azeitona"],
+    "prices": {
+      "pequena": 31.9,
+      "media": 41.9,
+      "grande": 51.9
+    },
+    "image": "https://receitadodia.com/wp-content/uploads/2015/08/Receita-de-pizza-portuguesa-1.jpg",
+    "available": true
+  },
+  {
+    "id": "5",
+    "name": "Calabresa",
+    "description": "Molho de tomate, mussarela, calabresa, cebola",
+    "category": "tradicional",
+    "ingredients": ["molho-tomate", "mussarela", "calabresa", "cebola"],
+    "prices": {
+      "pequena": 28.9,
+      "media": 38.9,
+      "grande": 48.9
+    },
+    "image": "https://blog.novasafra.com.br/wp-content/uploads/2016/01/accb7d_37d37d9f1001e88384dafc6e5cc60c4f.jpg_1024-780x450.jpg",
+    "available": true
+  },
+  {
+    "id": "6",
+    "name": "Frango com Catupiry",
+    "description": "Molho de tomate, mussarela, frango desfiado, catupiry",
+    "category": "especial",
+    "ingredients": ["molho-tomate", "mussarela", "frango", "catupiry"],
+    "prices": {
+      "pequena": 33.9,
+      "media": 43.9,
+      "grande": 53.9
+    },
+    "image": "https://instadelivery-public.nyc3.cdn.digitaloceanspaces.com/itens/1651282215626c912707f23_75_75.jpeg",
+    "available": true
+  },
+  {
+    "id": "7",
+    "name": "Pizza Orientada a Queijo",
+    "description": "A especialidade da casa! Molho especial da Karla, 5 queijos premium, manjericão e um toque de algoritmo secreto",
+    "category": "especial",
+    "ingredients": ["molho-especial", "mussarela", "gorgonzola", "parmesao", "provolone", "catupiry", "manjericao"],
+    "prices": {
+      "pequena": 35.9,
+      "media": 45.9,
+      "grande": 55.9
+    },
+    "image": "https://th.bing.com/th/id/OIP.j5F-xDX0kRdoY5BMNombtQHaE8?cb=iwp2&rs=1&pid=ImgDetMain",
+    "available": true
+  }
+]

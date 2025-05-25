@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Coca-Cola 350ml",
+    "category": "bebida",
+    "price": 5.5,
+    "image": "https://th.bing.com/th/id/OIP.rCs7v_EWnFujc_SYveWHtQHaGt?cb=iwp2&w=1200&h=1087&rs=1&pid=ImgDetMain",
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Guaraná Antarctica 350ml",
+    "category": "bebida",
+    "price": 5.5,
+    "image": "https://th.bing.com/th/id/OIP.kMX0R6PH2EbCqXw-YCoTLgAAAA?cb=iwp2&rs=1&pid=ImgDetMain",
+    "available": true
+  },
+  {
+    "id": "3",
+    "name": "Água 500ml",
+    "category": "bebida",
+    "price": 3.0,
+    "image": "https://img.kalunga.com.br/fotosdeprodutos/996946d.jpg",
+    "available": true
+  },
+  {
+    "id": "4",
+    "name": "Pudim de Leite",
+    "category": "sobremesa",
+    "price": 8.9,
+    "image": "https://th.bing.com/th/id/R.e8a2cd6e0da8691462c83418ec6d7b2f?rik=Ul9FI3PHhsbc%2bQ&pid=ImgRaw&r=0****",
+    "available": true
+  },
+  {
+    "id": "5",
+    "name": "Brownie com Sorvete",
+    "category": "sobremesa",
+    "price": 12.9,
+    "image": "https://c2.staticflickr.com/4/3011/2997511408_4e7c3f534d_b.jpg",
+    "available": true
+  },
+  {
+    "id": "6",
+    "name": "Açai",
+    "category": "sobremesa",
+    "price": 12.9,
+    "image": "https://segredosdomundo.r7.com/wp-content/uploads/2021/05/lenda-do-acai-origem-desse-fruto-tradicional-da-regiao-norte-do-brasil-1-960x960.jpeg",
+    "available": true
+  }
+]
